@@ -11,10 +11,10 @@
     4 * 75	 0B 03 7F FF "Please move ttdpbase.grf or "
 	 "ccol2.grf to the top of your newgrf "
 	 "config" 00
-    5 * 192	 08 06 52 57 12 09 "Generic Cars v0.4.x" 00 "Generic "
+    5 * 202	 08 06 52 57 12 09 "Generic Cars (Custom) v0.4.x" 00 "Generic "
 	 "cars for eyecandy, in dual company "
 	 "colours. By Richard Wheeler (Zephyris), "
-	 "edited by David Dallaston (Pikka) "
+	 "edited by David Dallaston (Pikka), "
 	 "forked by TransshipmentEnvoy "
 	 "2023. Version 0.4.x" 00
     6 * 3	 11 0D 00
